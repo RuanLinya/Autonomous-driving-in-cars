@@ -6,8 +6,6 @@ Schwerpunkt der Darstellung ist die schnelle und eindeutliche Erkennbarkeit des 
 Ziel ist die Darstellung einer Anzeige des Abstandsassistenten. Der Fahrer kann dabei einen Wunschabstand zum Vorderfahrzeugen einstellen, sein Fahrzeug kann vorausfahrende Fahrzeuge erkennen und selbständig durch Abbremsen und Beschleunigen den Abstand zum Vorderfahrzeug konstant halten.
 Abruptes Bremsen des Vorderfahrzeugs oder ein sehr langsames Vorderfahrzeug erfordern ein Eingreifen des Fahrers selbst.
 
-Dargestellt werden sollen die Straße, das eigene, das vorausfahrende Fahrzeug sowie der Abstand zwischen den Fahrzeugen in einer dreidimensionalen
-
 ## Vorgehen
 01 Entwerfe bitte die Grundszene in unterschiedlichen Entwurfsvarianten.
 02 Stelle Dein Entwurfsergebnis in den unterschiedlichen Zuständen dar:
@@ -51,7 +49,7 @@ Dargestellt werden sollen die Straße, das eigene, das vorausfahrende Fahrzeug s
 -  No Car (Abstand>=100m): kein vorausfahrendes Fahrzeug wird  erkannt
 <img width="384" alt="image" src="https://github.com/RuanLinya/Autonomous-driving-in-cars/assets/133128176/0ad0d1c9-9ced-4e0b-8af1-82d426598103">
 
-Stop: Stop Abstandassisten
+-  Stop: Stop Abstandassisten
 <img width="416" alt="image" src="https://github.com/RuanLinya/Autonomous-driving-in-cars/assets/133128176/a5f8099f-274e-42ba-88b6-de469d416349">
 
 ## Demo
@@ -59,11 +57,11 @@ Stop: Stop Abstandassisten
 <img width="721" alt="image" src="https://github.com/RuanLinya/Autonomous-driving-in-cars/assets/133128176/405f2b37-a1dc-4498-b1c5-f24c261339ff">
 
 
-https://youtu.be/0CG_o159O_4
+[https://youtu.be/0CG_o159O_4](https://youtu.be/nKycGhxPpes)
 
 <img width="721" alt="image" src="https://github.com/RuanLinya/Autonomous-driving-in-cars/assets/133128176/bb8258dc-8c28-4de2-bfc0-702b73e193be">
 
-https://youtu.be/73LPnaHO6pM
+[https://youtu.be/73LPnaHO6pM](https://youtu.be/9Zb2Cbjiy0w)
 
 ## Kontakt
 E-mail: ruanlinya@gmail.com
