@@ -7,8 +7,8 @@ Ziel ist die Darstellung einer Anzeige des Abstandsassistenten. Der Fahrer kann 
 Abruptes Bremsen des Vorderfahrzeugs oder ein sehr langsames Vorderfahrzeug erfordern ein Eingreifen des Fahrers selbst.
 
 ## Vorgehen
-01 Entwerfe bitte die Grundszene in unterschiedlichen Entwurfsvarianten.
-02 Stelle Dein Entwurfsergebnis in den unterschiedlichen Zuständen dar:
+###  Entwerfe bitte die Grundszene in unterschiedlichen Entwurfsvarianten.
+###  Stelle Dein Entwurfsergebnis in den unterschiedlichen Zuständen dar:
 - Abstandsassisten an / aus
 - Wunschabstand einstellen
 - kein vorausfahrendes Fahrzeug erkannt
